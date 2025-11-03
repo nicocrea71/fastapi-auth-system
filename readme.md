@@ -6,6 +6,8 @@ It turned out way better than I expected 😅
 This project uses **FastAPI (backend)**, **React (frontend)** and **MongoDB** for storing user data.  
 Everything is connected — you can sign up, login, get JWT token, and access a protected dashboard.
 
+![Flow](images/flow.gif)
+
 ---
 
 ## What It Does
@@ -61,8 +63,3 @@ uvicorn app:app --reload
 
 Now open browser → http://localhost:8000
 and you’re good to go 
-
-## Screenshots
-![Home Page](images/1.png)
-![Login/SignUp](images/2.png)
-![Dashboard](images/3.png)
